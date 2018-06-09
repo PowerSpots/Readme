@@ -4,7 +4,7 @@ RockFall : U3D太空射击游戏
 
 游戏预览：
 
-![img](null)
+![img](https://github.com/PowerSpots/Readme/blob/master/My-3D-Space-Shooter-Game/Preview_Space_Shooter.gif)
 
 
 ---------------------------------------------------------------<b>游戏设计：</b>---------------------------------------------------------------
@@ -38,7 +38,7 @@ RockFall : U3D太空射击游戏
 
     游戏中的指示器显示了小行星距离太空站还有多远，草图还显示了玩家握住设备的方式
 
-![img](null)
+![img](https://github.com/PowerSpots/Readme/blob/master/My-3D-Space-Shooter-Game/SketchForRockfall.jpg)
 
 
 UI系统
@@ -46,9 +46,9 @@ UI系统
     玩家在左侧的触控板上拖动手指来控制飞船飞行方向，使用右侧按钮射击。
 
     游戏中会显示小行星与空间站间距离的指示器，还有暂停、恢复按钮和远离太空站的红色警告。
-![img](null)
+![img](https://github.com/PowerSpots/Readme/blob/master/My-3D-Space-Shooter-Game/UI_Space_Shooter.gif)
 
 
 游戏成品
 
-![img](null)
+![img](https://github.com/PowerSpots/Readme/blob/master/My-3D-Space-Shooter-Game/TheFinishedGame.png)
