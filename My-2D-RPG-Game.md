@@ -4,7 +4,7 @@ A Call Of The Monster: My 2D RPG Demo
 
 游戏预览：
 
-![img](null)
+![img](https://github.com/PowerSpots/Readme/blob/master/My-2D-RPG-Game/Preview_RPG.gif)
 
     这是一款2D角色扮演游戏的Demo，在保持简单和良好拓展性的基础上，初步完成了精灵动画、使用脚本调整动画参数、与NPC交谈、有条件的地图导航、
   
