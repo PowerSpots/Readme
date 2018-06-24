@@ -24,7 +24,7 @@ RockFall : U3D太空射击游戏
 	关注对抗很多小敌人的连续短期挑战（摧毁不断来袭的小行星），而不是挑战单一Boss。
 	
 游戏架构：
-![img](https://github.com/PowerSpots/Readme/blob/master/My-3D-Space-Shooter-Game/SketchForRockfall.jpg)	
+![img](https://github.com/PowerSpots/Readme/blob/master/My-3D-Space-Shooter-Game/RockFall_Basic_Framework.png)	
     
 
 
